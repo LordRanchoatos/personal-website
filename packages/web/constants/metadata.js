@@ -1,10 +1,10 @@
 const username = 'kumareth'
 
 const META = {
-  title: 'Kumar Abhirup',
-  name: 'Kumar Abhirup',
-  fname: 'Kumar',
-  lname: 'Abhirup',
+  title: 'Lord Ranchoatos',
+  name: 'Atolagbe David Tolulope',
+  fname: 'David',
+  lname: 'Atolagbe',
   website: 'https://kumareth.com',
   username,
   social: {
