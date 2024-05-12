@@ -5,7 +5,7 @@ const META = {
   name: 'Atolagbe David Tolulope',
   fname: 'David',
   lname: 'Atolagbe',
-  website: 'https://kumareth.com',
+  website: 'https://lordrachoatos.com',
   username,
   social: {
     twitter: username,
