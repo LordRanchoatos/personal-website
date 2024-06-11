@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-props-no-spreading */
 import React, { useState, useEffect } from 'react'
 import simpleIcons from 'simple-icons'
 import { Grid, Row, Col } from 'react-flexbox-grid'
@@ -159,9 +160,8 @@ function Layout({
       </Grid>
 
       <footer>
-        Follow me on{' '}
-        <a href={`https://twitter.com/${META.social.twitter}`}>Twitter</a>,
-        that's where I usually hangout.
+        Growing my <a href={`https://twitter.com/${META.social.twitter}`}>X</a>,
+        follow me, I'll follow back
       </footer>
     </>
   )

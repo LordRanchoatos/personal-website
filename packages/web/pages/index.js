@@ -156,14 +156,14 @@ function About() {
             <br />
             <br />
 
-            <h2>Moments 📸</h2>
+            {/* <h2>Moments 📸</h2>
             <center>
               <Gallery
                 images={images}
                 enableImageSelection={false}
                 rowHeight={350}
               />
-            </center>
+            </center> */}
           </div>
         </div>
       </Layout>

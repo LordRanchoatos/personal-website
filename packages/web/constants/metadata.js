@@ -1,4 +1,4 @@
-const username = 'kumareth'
+const username = 'RanchoAtos'
 
 const META = {
   title: 'Lord Ranchoatos',
@@ -8,33 +8,30 @@ const META = {
   website: 'https://lordrachoatos.com',
   username,
   social: {
-    twitter: username,
-    linkedin: username,
-    github: 'kumarabhirup',
-    youtube: `c/${username}`,
-    dev: username,
-    facebook: username,
-    instagram: `kumarethz`,
-    tinyletter: 'kumar_abhirup',
-    revue: username,
+    twitter: 'RanchoAtos',
+    linkedin: 'david-atolagbe-271b72222/',
+    github: 'LordRanchoatos',
+    youtube: `https://youtube.com/@lordranchoatos-ds5pg?si=VzIneu21JEoKx-B-`,
     twitch: username,
+    instagram: ``,
+    // dev: username,
+    // facebook: username,
+    // tinyletter: '',
+    // revue: username,
   },
   description:
-    'Kumar is a Full-Stack JavaScript Developer who builds new stuff. Founder @ Beam. Say hi 👋 to him!',
-  thumbnail: 'https://i.ibb.co/0JfTxD2/Kumar-Abhirup-kumareth.jpg', // 'https://i.ibb.co/MPWCPr1/Kumar-Abhirup.jpg'
+    'Hi Guys, David here! a full stack developer, who loves building products people love.',
+  thumbnail: 'https://ibb.co/r3fx4kk', // 'https://ibb.co/chRdtYR'
   pageOgs: {
-    uses: 'https://i.ibb.co/xKvXWq3/Kumar-Abhirup-kumareth-uses.jpg',
-    writings:
-      'https://i.ibb.co/jhg75vm/Kumar-Abhirup-kumareth-writings-essays-blog.jpg',
-    subscribe:
-      'https://i.ibb.co/GVS6QBx/Kumar-Abhirup-kumareth-subscribe-to-newsletter.jpg',
-    live: 'https://i.ibb.co/sK71r4p/Kumar-Abhirup-kumareth-live.jpg',
+    uses: 'https://ibb.co/r3fx4kk',
+    writings: 'https://ibb.co/r3fx4kk',
+    subscribe: 'https://ibb.co/r3fx4kk',
+    live: 'https://ibb.co/r3fx4kk',
   },
-  email: 'hey@kumareth.com',
-  resume:
-    'https://github.com/kumarabhirup/resume/blob/master/Kumar%20Abhirup%20CV.pdf',
-  githubUrl: 'kumarabhirup/personal-website',
-  discordLink: 'https://discord.gg/CCjJ2Ndh4S',
+  email: 'atolagbedt@gmail.com',
+  resume: '',
+  githubUrl: 'LordRanchoatos',
+  discordLink: 'https://discord.gg/FWuHHcWus5',
 }
 
 module.exports = {
