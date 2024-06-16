@@ -20,7 +20,7 @@ const META = {
     // revue: username,
   },
   description:
-    'Hi Guys, David here! a full stack developer, who loves building products people love.',
+    'Hi Guys, David here! a full stack developer, who loves building products people uses.',
   thumbnail: 'https://ibb.co/r3fx4kk', // 'https://ibb.co/chRdtYR'
   pageOgs: {
     uses: 'https://ibb.co/r3fx4kk',
@@ -29,7 +29,7 @@ const META = {
     live: 'https://ibb.co/r3fx4kk',
   },
   email: 'atolagbedt@gmail.com',
-  resume: '',
+  resume: 'david-atolagbe-271b72222/',
   githubUrl: 'LordRanchoatos',
   discordLink: 'https://discord.gg/FWuHHcWus5',
 }
