@@ -11,8 +11,8 @@ export const ELEMENTS = {
   about: (
     <>
       <p>
-        I am a full stack developer, self taught develooper with a vast
-        experience in building product that cut accross different technologies
+        I am a full stack developer, self taught developer with a vast
+        experience in building product that cut across different technologies
         and aspects of lifes
       </p>
       <br />
