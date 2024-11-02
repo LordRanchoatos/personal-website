@@ -40,11 +40,26 @@ export const ELEMENTS = {
         conception to market success across both traditional tech and Web3
         spaces.
       </p>
-      <br />
-      - Built and scaled JobgapAI from 1,000 to 6,000+ users through AI-powered
-      features
-      <br />
-      - Launched DeFi platform managing 13.2M+ tokens across 186+ wallets
+      <br />- currently building{' '}
+      <a href="https://sooseed.com" target="_blank" rel="noopener noreferrer">
+        sooseed.com
+      </a>
+      : reinventing the crowdfunding and support/fandom in Nigeria.
+      <br />- Built at{' '}
+      <a href="https://jobgap.xyz" target="_blank" rel="noopener noreferrer">
+        jobgap.xyz
+      </a>{' '}
+      scaling from 1,000+ to 6,000+ in less than 6months users through
+      AI-powered features
+      <br />- Implemented TLBank(locked token) at{' '}
+      <a
+        href="https://www.bankless.community/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        BanklessDAO
+      </a>{' '}
+      with 13.2M+ tokens across 186+ wallets
       <br />
       - Led Bankless Africa's development, managing cross-functional teams
       <br />

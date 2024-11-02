@@ -38,10 +38,10 @@ const menu = [
     path: '/',
     name: 'start',
   },
-  {
-    path: '/writings',
-    name: 'essays',
-  },
+  // {
+  //   path: '/writings',
+  //   name: 'essays',
+  // },
   {
     path: '/moments',
     name: 'moments',
