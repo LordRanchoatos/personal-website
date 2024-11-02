@@ -42,6 +42,10 @@ const menu = [
     path: '/writings',
     name: 'essays',
   },
+  {
+    path: '/moments',
+    name: 'moments',
+  },
   // { path: META.discordLink, name: 'discord', newTab: true },
   // {
   //   path: '/subscribe',
@@ -160,8 +164,9 @@ function Layout({
       </Grid>
 
       <footer>
-        Growing my <a href={`https://twitter.com/${META.social.twitter}`}>X</a>,
-        follow me, I'll follow back
+        Growing my{' '}
+        <a href={`https://twitter.com/${META.social.twitter}`}>X (twitter)</a>,
+        I share interesting updates and thoughts about technology.
       </footer>
     </>
   )

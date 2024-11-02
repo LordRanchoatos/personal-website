@@ -11,10 +11,54 @@ export const ELEMENTS = {
   about: (
     <>
       <p>
-        I am a full stack developer, self taught developer with a vast
-        experience in building product that cut across different technologies
-        and aspects of lifes
+        As a Full Stack Developer and tech entrepreneur, I thrive on building
+        products that solve real-world problems. My journey spans Web3, AI, and
+        Fintech sectors, where I transform complex technical solutions into
+        user-friendly products that make a difference.
+        <br />
+        <br />I specialize in product development and team leadership, having
+        revolutionized job search processes through AI integration at{' '}
+        <a href="https://jobgap.xyz" target="_blank" rel="noopener noreferrer">
+          jobgap.xyz
+        </a>{' '}
+        and created new possibilities in the Web3 ticketing space with{' '}
+        <a
+          href="https://spacevents.xyz"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          spacevents.xyz
+        </a>
+        . My entrepreneurial mindset drives me to build scalable solutions that
+        serve thousands of users, not just write code.
+        <br />
+        <br />
+        Combining technical expertise with business strategy has enabled me to
+        successfully guide products from conception to market success across
+        both traditional tech and Web3 spaces.Combining technical expertise with
+        business strategy has enabled me to successfully guide products from
+        conception to market success across both traditional tech and Web3
+        spaces.
       </p>
+      <br />
+      - Built and scaled JobgapAI from 1,000 to 6,000+ users through AI-powered
+      features
+      <br />
+      - Launched DeFi platform managing 13.2M+ tokens across 186+ wallets
+      <br />
+      - Led Bankless Africa's development, managing cross-functional teams
+      <br />
+      - Developed and launched NFT ticketing platform serving 400+ blockchain
+      event attendees
+      <br />- Maintained Madhatter bot for Web3 community management and
+      administration at{' '}
+      <a
+        href="https://www.bankless.community/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        BanklessDAO
+      </a>
       <br />
       <br />
       <a href={`mailto:${META.email}`}>{META.email}</a>﹒{' '}
